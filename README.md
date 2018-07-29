@@ -1,0 +1,2 @@
+# OKEXFutureQuickAccess
+用于OKEX合约的快捷键工具
